@@ -12,11 +12,17 @@ Blockchain and full-stack developer passionate about building decentralized appl
   <a href="mailto:taherabbkhasamwala@gmail.com">
     <img src="https://img.shields.io/badge/Email-taherabbkhasamwala%40gmail.com-red?style=flat-square&logo=gmail" alt="Email">
   </a>
-  <a href="https://linkedin.com/in/taher-khasamwala">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/taherk18">
+    <img src="https://img.shields.io/badge/LinkedIn-taherk18-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/taherk18">
+    <img src="https://img.shields.io/badge/Twitter-taherk18-1DA1F2?style=flat-square&logo=twitter" alt="Twitter">
+  </a>
+  <a href="https://www.instagram.com/taherk_20">
+    <img src="https://img.shields.io/badge/Instagram-taherk__20-E4405F?style=flat-square&logo=instagram" alt="Instagram">
   </a>
   <a href="tel:+918274976907">
-    <img src="https://img.shields.io/badge/Phone-%2B91--8274--497--6907-green?style=flat-square&logo=whatsapp" alt="Phone">
+    <img src="https://img.shields.io/badge/Phone-%2B91--827--497--6907-green?style=flat-square&logo=whatsapp" alt="Phone">
   </a>
 </div>
 
@@ -36,7 +42,7 @@ Blockchain and full-stack developer passionate about building decentralized appl
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Taher2512&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Taher2512&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taher2512&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
 </div>
 
