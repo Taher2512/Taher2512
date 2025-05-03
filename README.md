@@ -1,7 +1,7 @@
 # Taher Khasamwala
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=435&lines=Software+Developer;Blockchain+Engineer;Full-Stack+Developer;Web3+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=435&lines=Software+Developer;Blockchain+Engineer;Full-Stack+Developer;App+Developer" alt="Typing SVG" />
 </div>
 
 ## 👨‍💻 About Me
